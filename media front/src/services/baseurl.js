@@ -1,0 +1,1 @@
+export const BASE_URL="https://media-back-end-5g52.onrender.com"
